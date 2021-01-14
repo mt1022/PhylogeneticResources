@@ -1,5 +1,7 @@
-# PhylogeneticResources
-Collection of phylogenetic resources
+### Phylogenetic Resources
+Collection of phylogenetic resources.
+
+-------
 
 #### Phylogenetic tree resconstruction
 ##### [IQ-TREE](iqtree.org)
