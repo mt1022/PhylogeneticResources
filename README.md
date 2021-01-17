@@ -47,3 +47,6 @@ ML based. Tests supported include: aBSREL, BUSTED, FUBAR, MEME, etc. Manual and 
 Visualize and manipulate tree
 - [Interactive Tree Of Life](https://itol.embl.de/): display, annotation and management of phylogenetic trees.
 - [Phylotree.js](http://phylotree.hyphy.org/): visualize and label branches in phylogenetic trees.
+
+Visualize MSA
+- [MView](https://www.ebi.ac.uk/Tools/msa/mview/)
