@@ -3,6 +3,11 @@ Collection of phylogenetic resources.
 
 -----------------------------------------------------------------------------
 
+#### All in one
+##### [MEGA](https://www.megasoftware.net/)
+
+-----------------------------------------------------------------------------
+
 #### Multiple Sequence Alignment
 #### [ClustalW](http://www.clustal.org/)
 
@@ -16,13 +21,25 @@ Manual available [here](http://wasabiapp.org/software/prank/). Prank could back-
 #### [MAFFT](https://mafft.cbrc.jp/alignment/software/)
 Official suggestions for choosing which program to use are available [here](https://mafft.cbrc.jp/alignment/software/about.html). Manuals available at [Algorithms](https://mafft.cbrc.jp/alignment/software/algorithms/algorithms.html) and [Tips](https://mafft.cbrc.jp/alignment/software/tips0.html).
 
-
 -----------------------------------------------------------------------------
 
 #### Phylogenetic tree resconstruction
 ##### [IQ-TREE](iqtree.org)
 IQ-TREE could perform model selection, Maximum-likelihood tree reconstruction, and branch support assessment by bootstrap.
 [Documentation](http://www.iqtree.org/doc/) is comprehensive and well-organized.
+
+##### [RAxML-NG](https://github.com/amkozlov/raxml-ng)
+model selection, Maximum-likelihood tree reconstruction. Documentation available from:
+- [wiki](https://github.com/amkozlov/raxml-ng/wiki)
+- [Using RAxML-NG in Practice](https://www.preprints.org/manuscript/201905.0056/v1)
+
+-----------------------------------------------------------------------------
+
+#### Hypothesis testing
+##### [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html)
+Classic. ML based.
+##### [HyPhy][https://www.hyphy.org/]
+ML based. Tests supported include: aBSREL, BUSTED, FUBAR, MEME, etc. Manual and Methods are comprehensive.
 
 -----------------------------------------------------------------------------
 
