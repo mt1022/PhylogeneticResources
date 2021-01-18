@@ -37,8 +37,13 @@ model selection, Maximum-likelihood tree reconstruction. Documentation available
 
 #### Hypothesis testing
 ##### [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html)
-Classic. ML based.
-##### [HyPhy][https://www.hyphy.org/]
+Classic. ML based. Tests include:
+- Rate heterogeneity among sites (M0-M3)
+- Positive selection (M1a-M2a, M7-M8, M8a-M8)
+- Branch-site test of positive selection
+- Free-ratio model (rate heterogeneity among branches)
+
+##### [HyPhy](https://www.hyphy.org/)
 ML based. Tests supported include: aBSREL, BUSTED, FUBAR, MEME, etc. Manual and Methods are comprehensive.
 
 -----------------------------------------------------------------------------
