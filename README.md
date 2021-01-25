@@ -33,6 +33,12 @@ model selection, Maximum-likelihood tree reconstruction. Documentation available
 - [wiki](https://github.com/amkozlov/raxml-ng/wiki)
 - [Using RAxML-NG in Practice](https://www.preprints.org/manuscript/201905.0056/v1)
 
+##### [PhyML](https://github.com/stephaneguindon/phyml)
+Estimate maximum likelihood phylogeny. Support a large number of substitution models coupled to various options to search the space of possible tree topologies.
+
+- Documentation: [manual](https://raw.githubusercontent.com/stephaneguindon/phyml/master/doc/phyml-manual.pdf)
+- Online server: [ATGC: PhyML](http://www.atgc-montpellier.fr/phyml/)
+
 -----------------------------------------------------------------------------
 
 #### Hypothesis testing
