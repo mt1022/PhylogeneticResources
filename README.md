@@ -66,3 +66,6 @@ Visualize MSA
 MSA
 - [JalView](http://www.jalview.org/)
 - [AliView](https://github.com/AliView/AliView)
+
+Tree
+- [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
