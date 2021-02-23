@@ -54,10 +54,15 @@ ML based. Tests supported include: aBSREL, BUSTED, FUBAR, MEME, etc. Manual and 
 
 -----------------------------------------------------------------------------
 
-#### Online tools
+#### Online visualization tools
 Visualize and manipulate tree
 - [Interactive Tree Of Life](https://itol.embl.de/): display, annotation and management of phylogenetic trees.
 - [Phylotree.js](http://phylotree.hyphy.org/): visualize and label branches in phylogenetic trees (for use in branch or branch-site models in HyPhy and PAML). 
 
 Visualize MSA
 - [MView](https://www.ebi.ac.uk/Tools/msa/mview/)
+
+#### Local visualization tools
+MSA
+- [JalView](http://www.jalview.org/)
+- [AliView](https://github.com/AliView/AliView)
