@@ -69,3 +69,9 @@ MSA
 
 Tree
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
+
+------------------------------------------------------------------------------
+
+#### Format conversion
+Online
+- [EMBOSS Seqret](https://www.ebi.ac.uk/Tools/sfc/)
